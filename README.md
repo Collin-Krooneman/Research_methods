@@ -9,7 +9,7 @@ The provided shell script filters the word 'de' from any given text file. The te
 To run the shell script you first need to grant permission with:
 chmod +x Find_word_de.sh
 You also need to put the provided text file in the same folder as the shell script.
-The shell script used in the repository is run in Ubuntu 20.04 on Windows
+The shell script used in the repository is run in Ubuntu 20.04 on Windows.
 The text file can be found in the repository. https://github.com/Collin-Krooneman/Research_methods/blob/a42a7485be5278cadff2bb4f98f15c6ef2d0bf88/Universiteit.txt
 
 # text file
