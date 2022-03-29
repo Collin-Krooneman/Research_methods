@@ -1,7 +1,7 @@
 # Name: Collin Krooneman
 # Date: 27-3-2022
 # Name program: Medaille_counter.py
-# This program takes a corpus with twitter tweets and filters threw these
+# This program takes a corpus with twitter tweets and filters through these
 # tweets for the word medaille and its synonyms in the dutch language.
 
 import gzip
