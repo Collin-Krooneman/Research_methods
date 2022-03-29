@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Description: generates the total amount of occurences
-#              of the word "de" in a given file. 
+#              of the word "de" in any given text file. 
 #
 # Usage: ./Find_word_de.sh <FILE>
 
