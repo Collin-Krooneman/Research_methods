@@ -17,4 +17,3 @@ find corpus/08/ -type f -print |\
 xargs -n 1 python3 Medaille_counter.py 0 > IC_output3.txt
 tr \' \" < IC_output3.txt > IC_output4.txt
 python3 Medaille_counter.py 1 IC_output4.txt >> output.txt
-
